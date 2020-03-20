@@ -2,7 +2,7 @@ package com.cursor.main.java.hw9.task1;
 
 import java.io.IOException;
 
-public class Task1 {
+public class CaughtExceptions {
     public void printAllExceptions() {
         showExceptionA();
         showExceptionB();
