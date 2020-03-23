@@ -1,4 +1,4 @@
-package com.cursor.main.java.hw9.task1;
+package main.java.com.cursor.hw9.task1;
 
 import java.io.IOException;
 

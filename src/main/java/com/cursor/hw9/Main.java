@@ -1,6 +1,6 @@
-package com.cursor.main.java.hw9;
+package main.java.com.cursor.hw9;
 
-import com.cursor.main.java.hw9.controller.AppExecutor;
+import main.java.com.cursor.hw9.controller.AppExecutor;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package com.cursor.main.java.hw9.task3;
+package main.java.com.cursor.hw9.task3;
 
 public class RethrowingException {
 
